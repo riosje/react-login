@@ -1,3 +1,22 @@
+#  Login with React + AWS amplify -   Proof Of Concept
+
+
+This project is a proof of concept about how to implement a simple login page with React integrated with AWS Cognito trough the AWS amplify framework, and is limited only to the cognito integration is not intended to be integrated with the AWS amplify service.
+
+
+## Frameworks and libs used
+[Reacjs](https://reactjs.org/docs/getting-started.html)
+[AWS Amplify](https://docs.amplify.aws)
+[AWS Amplify UI](https://ui.docs.amplify.aws/getting-started/installation?platform=react)
+[MaterialUI](https://mui.com/)
+
+
+## Pre-requisites to run the project
+- NodeJS 14+ and NPM to run this project [donwload here](https://nodejs.org/en/)
+- AWS Cognito user pool
+- AWS S3 bucket
+
+
 ## Getting started
 
 #### 1) Clone the [repository](https://github.com/riosje/react-login)
