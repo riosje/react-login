@@ -1,0 +1,9 @@
+@import "@aws-amplify/ui-react/styles.css";
+
+.amplify-button[data-variation='primary'] {
+  background-color: #1976d2;
+}
+
+.amplify-button:hover[data-variation='primary'] {
+  background-color: gray;
+}
