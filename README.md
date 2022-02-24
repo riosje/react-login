@@ -5,10 +5,10 @@ This project is a proof of concept about how to implement a simple login page wi
 
 
 ## Frameworks and libs used
-[Reacjs](https://reactjs.org/docs/getting-started.html)
-[AWS Amplify](https://docs.amplify.aws)
-[AWS Amplify UI](https://ui.docs.amplify.aws/getting-started/installation?platform=react)
-[MaterialUI](https://mui.com/)
+- [Reactjs](https://reactjs.org/docs/getting-started.html)
+- [AWS Amplify](https://docs.amplify.aws)
+- [AWS Amplify UI](https://ui.docs.amplify.aws/getting-started/installation?platform=react)
+- [MaterialUI](https://mui.com/)
 
 
 ## Pre-requisites to run the project
